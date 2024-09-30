@@ -20,3 +20,7 @@ PYTHON NUMBERS
 
 # Can't use commas to separate numbers, but can use underscore.
   eg: 3_100 = 3100 
+
+*Operators
++   -   *   /   =   +=  -+  *=  /=  **  //  %   
+>   <   >=  <=  !=  ===
