@@ -24,3 +24,11 @@ PYTHON NUMBERS
 *Operators
 +   -   *   /   =   +=  -+  *=  /=  **  //  %   
 >   <   >=  <=  !=  ===
+
+*Escape Sequence
+1. \n : newline
+2. \t : tab
+3. \" : double quote
+4. \' : single quote
+5. \\ : backslash
+
