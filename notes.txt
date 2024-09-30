@@ -1,0 +1,22 @@
+
+PYTHON NUMBERS
+
+*Data Types
+----------
+1. Strings
+2. Integers
+3. Frozenset
+4. Boolean
+5. Floats
+6. Bytes
+7. Dictionary
+8. Complex
+9. Range
+10. List
+11. Tuple
+12. Set
+
+# type : type of value
+
+# Can't use commas to separate numbers, but can use underscore.
+  eg: 3_100 = 3100 
