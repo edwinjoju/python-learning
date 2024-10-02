@@ -27,7 +27,8 @@
 
 
 #------------f string----------------
-print(f'there are {24*60*60} seconds')
+#print(f'there are {24*60*60} seconds')
+
 
 
 
