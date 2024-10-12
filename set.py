@@ -12,6 +12,6 @@
 #intersection
 even ={2,4,6,8,10}
 prime = {2,3,5,7,9}
-print(even & prime)
-print(even | prime)
-print(even-prime)
+print(even & prime) #intersection
+print(even | prime) #union
+print(even-prime) #difference
