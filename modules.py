@@ -10,4 +10,7 @@
 #print(rand.randint(1,12))
 #from math import pi, sin
 
-
+#from art import *
+#art_coffee = art("random")
+#print(art_coffee)
+#print(art.text2art("hello")
